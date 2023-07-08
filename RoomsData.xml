@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <record><day>monday</day><left>sofa</left><right>closet</right><up>musical instrument</up><down>bed</down><center>chair</center></record>
+    <record><day>tuesday</day><left>chair</left><right>sofa</right><up>closet</up><down>musical instrument</down><center>bed</center></record>
+    <record><day>wednesday</day><left>bed</left><right>chair</right><up>sofa</up><down>closet</down><center>musical instrument</center></record>
+    <record><day>thursday</day><left>musical instrument</left><right>bed</right><up>chair</up><down>sofa</down><center>closet</center></record>
+    <record><day>friday</day><left>closet</left><right>musical instrument</right><up>bed</up><down>chair</down><center>sofa</center></record>
+</dataset>
